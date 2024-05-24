@@ -6,4 +6,4 @@ Assignment for Cross-Platform Course 2024
 
 Learting to animate "strings."
 
-url: https://htmlpreview.github.io/?https://github.com/J-spx/moving-strings/blob/main/index.html
+url: https://htmlpreview.github.io/?https://github.com/J-spx/moving-strings/blob/main/animation.html
